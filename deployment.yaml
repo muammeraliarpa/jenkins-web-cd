@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: jenkinsweb
-        image: muammerarpa/jenkins-web:5
+        image: muammerarpa/jenkins-web:6
         ports:
         - containerPort: 80
